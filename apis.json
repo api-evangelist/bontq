@@ -1,0 +1,56 @@
+{
+    "name": "Bontq",
+    "description": "Try the BONTQ Bug Tracking System - a Web Based Tool for Tracking Projects, Tasks, Issues and many more...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/711-bontq.jpg",
+    "tags": [
+        "api provider",
+        "code issues",
+        "have api",
+        "issues",
+        "projects",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bontq\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bontq",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/711-bontq.jpg",
+            "humanURL": "http:\/\/www.bontq.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bontq-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/bontq"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bontq"
+        },
+        {
+            "type": "Email",
+            "url": "support@bontq.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Bontq"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bontq.com\/"
+        }
+    ]
+}
